@@ -42,7 +42,7 @@ html {
 }
 
 .col-third{
-    width: calc(100%/3);
+    width: 100%;
 }
 
 .col-half{
@@ -194,7 +194,6 @@ html {
     padding-top: 50%; /* 50% của chính nó*/
     background: url(/assets/img/Slider/la.jpg) top center / cover no-repeat;
     position: relative;
-    
 }
 
 #slider .text-content {
@@ -271,8 +270,8 @@ html {
 
 
 #container .member-image .member-picture {
-    width: 154px;
-    height: 200px;
+    width: 275px;
+    height: 400px;
     margin-top: 15px;
 }
 
